@@ -12,11 +12,11 @@ Projeto de aprendizado supervisionado aplicando **Árvore de Decisão** e **K-Ne
 
 ### Acurácia por valor de K (KNN)
 
-![Acurácia KNN](imagens/knn_k_analysis.png)
+![Acurácia KNN](C:\Users\larissacampos\Documents\GitHub\projAICyrino\imagens\knn_k_analysis.png)
 
 ### Comparativo final: Árvore de Decisão vs KNN
 
-![Comparativo de métricas](imagens/comparacao_modelos.png)
+![Comparativo de métricas](C:\Users\larissacampos\Documents\GitHub\projAICyrino\imagens\comparacao_modelos.png)
 
 ---
 
