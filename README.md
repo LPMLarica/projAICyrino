@@ -61,14 +61,12 @@ Pode overfitar se muito profunda, sensível a pequenas variações.
 Simples, intuitivo, não assume distribuição dos dados.
 Custoso em datasets grandes, sensível à escala, performance depende de k.
 
-    Métricas Avaliadas:
+Métricas Avaliadas:
 
 Acurácia: proporção de predições corretas
-
 Precisão: VP / (VP + FP)
 Recall: VP / (VP + FN)
 F1-Score: média harmônica entre precisão e recall
-
 (VP = Verdadeiros Positivos, FP = Falsos Positivos, FN = Falsos Negativos)
 
 Conclusões:
@@ -78,6 +76,7 @@ Alta acurácia (>95%) para ambos os modelos.
 KNN: eficiente para datasets pequenos e simples.
 
 Próximos passos:
+
     - Testar outros datasets
 
     - Aplicar validação cruzada
